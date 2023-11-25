@@ -1,0 +1,1 @@
+# Metarhia application minimal template 🔵
