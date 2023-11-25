@@ -1,17 +1,16 @@
 {
-  "name": "template-application",
-  "version": "3.0.0",
-  "author": "Timur Shemsedinov <timur.shemsedinov@gmail.com>",
-  "description": "Metarhia application minimal template",
+  "name": "meta-communicate",
+  "version": "0.0.1",
+  "description": "Meta communicate - communication platform based on the metarhia tech stack",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/metarhia/Template"
+    "url": "https://github.com/vara855/meta-communicate"
   },
   "bugs": {
-    "url": "https://github.com/metarhia/Template/issues"
+    "url": "https://github.com/vara855/meta-communicate/issues"
   },
-  "homepage": "https://github.com/metarhia/Template",
+  "homepage": "https://github.com/vara855/meta-communicate",
   "main": "server.js",
   "types": "types/global.d.ts",
   "scripts": {
